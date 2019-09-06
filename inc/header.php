@@ -7,6 +7,8 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <link rel="icon" href="<?php echo BASEURL; ?>inc/doity-icon.ico" type="image/icon type">
+
         <link rel="stylesheet" href="<?php echo BASEURL; ?>css/bootstrap.min.css">
         <style>
             body {
@@ -19,7 +21,7 @@
     </head>
     <body>
 
-        <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+        <nav class="navbar navbar-expand-sm bg-danger navbar-dark fixed-top">
           <!-- Brand -->
           <div class="container">
             <a class="navbar-brand" href="<?php echo BASEURL; ?>index.php" class="navbar-brand">PROJECT-DOITY-TRAINEE</a>
@@ -41,10 +43,6 @@
             </div>
         </li>
     </ul>
-    <form class="form-inline" action="/search.php">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search">
-        <button class="btn btn-success" type="submit">Search</button>
-    </form>
 </div>
 </nav>
 

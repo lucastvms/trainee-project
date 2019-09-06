@@ -24,7 +24,7 @@
 	</div>
 
 	<div class="col-xs-6 col-sm-3 col-md-2">
-		<a href="events" class="btn btn-secondary">
+		<a href="events/index.php" class="btn btn-secondary">
 			<div class="row">
 				<div class="col-xs-12 text-center">
 					<i class="fa fa-calendar-plus-o fa-5x" aria-hidden="true"></i>
