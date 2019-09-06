@@ -1,2 +1,2 @@
 # trainee-project
-trainee project for doity
+first trainee project for doity
