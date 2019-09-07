@@ -12,7 +12,7 @@ move the project-folder to the htdocs folder from XAMPP
 run XAMPP Control Panel and start Apache and Mysql
 
 
-# mysql database commands
+# mysql database commands (use the raw to copy the mysql code)
 
 CREATE DATABASE doity;
 
