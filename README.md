@@ -45,7 +45,7 @@ VALUES ('Evento X', '123.456.789-00', '1989-01-01', 'Rua da Web, 123',
 'Internet', '1234568', 'Teste', 'Teste', '5555555', '55555555',  
 '2019-09-03 00:00:00', '2019-09-03 00:00:00');
 
-# start the server
+# start to use
 
 change the project-folder\config.php file using your DB configurations
 
